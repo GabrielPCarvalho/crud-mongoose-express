@@ -13,7 +13,7 @@
 
   <img src="https://img.shields.io/github/stars/GabrielPCarvalho/crud-mongoose-express?label=stars&message=MIT&color=161e2f&labelColor=107770 " alt="Stars">
 
- <img src="https://img.shields.io/static/v1?label=CRUD&message=05&color=161e2f&labelColor=107770" alt="CRUD" />
+ <img src="https://img.shields.io/static/v1?label=CRUD&message=02&color=161e2f&labelColor=107770" alt="CRUD" />
 </p>
 
 <p align="center">
